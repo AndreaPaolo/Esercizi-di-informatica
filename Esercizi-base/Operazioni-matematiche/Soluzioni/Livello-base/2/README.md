@@ -19,7 +19,6 @@ c --> rapporto[Rapporto a/b] --> stop([stop])
 ```
 
 ## Pseudo-codifica
-#### Example 1.1
 
 ```
 INIZIO.
