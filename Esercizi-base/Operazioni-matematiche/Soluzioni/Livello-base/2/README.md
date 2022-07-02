@@ -12,7 +12,7 @@ valoreb --> controllo{Controllo b}
 controllo --> D[Riprova]
 D  -->  valoreb
 valoreb --> c[ok]
-c --> somma[Somma ab+b] --> stop([stop])
+c --> somma[Somma a+b] --> stop([stop])
 c --> differenza[Differenza a-b] --> stop([stop])
 c --> prodotto[Prodotto a*b] --> stop([stop])
 c --> rapporto[Rapporto a/b] --> stop([stop])
