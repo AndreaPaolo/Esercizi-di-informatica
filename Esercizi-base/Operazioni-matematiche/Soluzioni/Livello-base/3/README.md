@@ -1,4 +1,4 @@
-# Livello base 1:
+# Livello base 3:
 
 **Quesito:** Presa una lista di cinque numeri esegui una somma ed una media.
 
